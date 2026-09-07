@@ -1,13 +1,7 @@
 Round 1
 paper
 Round 2
-<<<<<<< HEAD
 rock
 Round 3
-scissors
-=======
-scissors
-Round 3
 rock
->>>>>>> my-turn
 🏁
