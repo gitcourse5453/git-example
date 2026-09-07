@@ -192,3 +192,27 @@ Here’s a simple and delicious **vegan recipe** for you:
 - Cherry tomatoes or sun-dried tomatoes
 - Vegan  cheese
 - Toasted pine nuts or walnuts for crunch
+
+---
+
+New recipe:
+
+Super Quick Vegon Pancakes
+(Serves 2)
+
+Ingredients:
+
+    1 cup (120g) flour
+    1 tbsp sugar
+    1 tsp baking powder
+    1/2 tsp salt
+    1 cup (240ml) plant-based milk
+    1 tbsp oil (or melted vegan butter)
+    1/2 tsp vanilla extract (optional)
+
+Instructions:
+
+    Mix dry ingrodients (flour, sugar, baking powder, salt).
+    Add wet ingredients (milk, oil, vanilla) and stir until just combined.
+    Heat a pan over medium hiat and lightly grease it.
+    Pour batter to form pancakes. Cook 2-3 minutes per side until golden.
