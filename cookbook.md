@@ -76,3 +76,68 @@ Toppings (Customize as you like!)
         Pepperoni, mushrooms, bell peppers, onions, olives, ham, pineapple, fresh basil, etc.
 
 
+Instructions
+1. Make the Dough
+
+    Activate the yeast:
+        In a small bowl, mix the warm water, sugar, and yeast. Let sit for 5–10 minutes until frothy.
+
+    Mix the dough:
+        In a large bowl, combine the flour and salt. Make a well in the center and pour in the yeast mixture and olive oil.
+        Stir with a wooden spoon until a shaggy dough forms.
+
+    Knead the dough:
+        Turn the dough onto a lightly floured surface and knead for 8–10 minutes until smooth and elastic.
+        Alternatively, use a stand mixer with a dough hook for 5–6 minutes.
+
+    Let the dough rise:
+        Place the dough in a lightly oiled bowl, cover with a damp towel, and let rise in a warm place for 1–2 hours (or until doubled in size).
+
+2. Make the Sauce
+
+    Sauté aromatics (optional):
+        Heat 1 tbsp olive oil in a saucepan over medium heat. Add 1 minced garlic clove (optional) and sauté for 30 seconds until fragrant.
+
+    Simmer the sauce:
+        Add the crushed tomatoes, tomato paste, oregano, basil, garlic powder, salt, pepper, and sugar.
+        Simmer on low heat for 15–20 minutes, stirring occasionally, until thickened.
+
+3. Prep the Toppings
+
+    Shred the mozzarella cheese.
+    Grate the Parmesan cheese.
+    Chop and prep your favorite toppings (e.g., slice mushrooms, bell peppers, onions, etc.).
+
+4. Assemble the Pizza
+
+    Preheat oven to 475°F (245°C). If using a pizza stone, place it in the oven to heat.
+
+    Shape the dough:
+        Punch down the risen dough and divide it into 2 equal balls.
+        On a floured surface, roll each ball into a 12-inch (30cm) circle (or your preferred shape).
+
+    Transfer to a pizza peel or baking sheet:
+        If using a pizza stone, sprinkle cornmeal or flour on the peel to prevent sticking.
+        Place the dough on the peel or baking sheet.
+
+    Add sauce and toppings:
+        Spread ½ cup sauce evenly over the dough, leaving a ½-inch border for the crust.
+        Sprinkle 1½ cups mozzarella and ¼ cup Parmesan over the sauce.
+        Add your favorite toppings.
+
+5. Bake the Pizza
+
+    Transfer to the oven:
+        Slide the pizza (with the peel) onto the preheated pizza stone or place the baking sheet in the oven.
+
+    Bake for 12–15 minutes:
+        Rotate the pizza halfway through for even baking.
+        The pizza is done when the crust is golden and the cheese is bubbly and slightly browned.
+
+    Finish with toppings:
+        Remove from the oven and sprinkle with fresh basil, Parmesan, or a drizzle of olive oil.
+
+6. Serve
+
+    Let the pizza cool for 2–3 minutes, then slice and serve!
+
