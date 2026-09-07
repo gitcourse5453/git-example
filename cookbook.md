@@ -197,7 +197,7 @@ Here’s a simple and delicious **vegan recipe** for you:
 
 New recipe:
 
-Super Quick Vegon Pancakes
+Super Quick Pancakes
 (Serves 2)
 
 Ingredients:
@@ -212,7 +212,7 @@ Ingredients:
 
 Instructions:
 
-    Mix dry ingrodients (flour, sugar, baking powder, salt).
+    Mix dry (flour, sugar, baking powder, salt).
     Add wet ingredients (milk, oil, vanilla) and stir until just combined.
-    Heat a pan over medium hiat and lightly grease it.
+    Heat a pan over medium and lightly grease it.
     Pour batter to form pancakes. Cook 2-3 minutes per side until golden.
