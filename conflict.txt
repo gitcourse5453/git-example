@@ -1,0 +1,7 @@
+Round 1
+paper
+Round 2
+scissors
+Round 3
+rock
+🏁
