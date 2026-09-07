@@ -41,3 +41,38 @@ Instructions:
 
     Slice and serve:
         Enjoy warm or at room temperature. Store leftovers in an airtight container for up to 5 days.
+# Homemade Pizza
+
+Dough Ingredients
+
+(Makes enough for 2 medium pizzas)
+
+    3 ½ cups (440g) all-purpose flour (or bread flour for chewier crust)
+    1 ¼ cups (300ml) warm water (~110°F/43°C)
+    2 ¼ tsp (7g) active dry yeast (1 packet)
+    1 tsp sugar (helps activate the yeast)
+    1 tsp salt
+    2 tbsp olive oil (plus extra for greasing)
+
+Sauce Ingredients
+
+(Makes enough for 2 pizzas)
+
+    1 (14oz/400g) can crushed tomatoes
+    2 tbsp tomato paste
+    1 tsp dried oregano
+    1 tsp dried basil
+    ½ tsp garlic powder
+    ½ tsp salt
+    ¼ tsp black pepper
+    1 tbsp olive oil
+    1 tsp sugar (optional, balances acidity)
+
+Toppings (Customize as you like!)
+
+    2 cups (225g) shredded mozzarella cheese
+    ½ cup grated Parmesan cheese
+    Toppings of choice:
+        Pepperoni, mushrooms, bell peppers, onions, olives, ham, pineapple, fresh basil, etc.
+
+
