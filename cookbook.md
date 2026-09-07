@@ -141,3 +141,54 @@ Instructions
 
     Let the pizza cool for 2–3 minutes, then slice and serve!
 
+Here’s a simple and delicious **vegan recipe** for you:
+
+---
+
+### **Creamy Garlic Mushroom Pasta**
+**Serves:** 2
+**Prep Time:** 10 mins
+**Cook Time:** 15 mins
+
+#### **Ingredients:**
+- 8 oz (225g) pasta (spaghetti, fettuccine, or penne)
+- 2 tbsp olive oil
+- 3 cloves garlic, minced
+- 8 oz (225g) mushrooms (cremini or white), sliced
+- 1/2 cup (120ml) vegetable broth
+- 1/2 cup (120ml) unsweetened plant-based cream (coconut or cashew cream works well)
+- 2 tbsp nutritional yeast (for a cheesy flavor)
+- 1 tbsp lemon juice
+- 1 tsp soy sauce or tamari
+- Salt and pepper to taste
+- Fresh parsley or basil, chopped (for garnish)
+- Red pepper flakes (optional, for heat)
+
+---
+
+#### **Instructions:**
+1. **Cook the pasta:**
+    - Boil salted water in a pot and cook the pasta according to package instructions until al dente. Reserve 1/2 cup of pasta water before draining.
+
+2. **Sauté the mushrooms and garlic:**
+    - Heat olive oil in a large pan over medium heat.
+    - Add minced garlic and sliced mushrooms. Cook for 5-6 minutes until the mushrooms are golden and have released their moisture.
+
+3. **Make the creamy sauce:**
+    - Pour in the vegetable broth and simmer for 2-3 minutes until reduced slightly.
+    - Stir in the plant-based cream, nutritional yeast, lemon juice, and soy sauce. Simmer for another 3-4 minutes until the sauce thickens.
+
+4. **Combine the pasta and sauce:**
+    - Add the cooked pasta to the pan and toss to coat evenly. If the sauce is too thick, add a splash of reserved pasta water.
+    - Season with salt, pepper, and red pepper flakes (if using).
+
+5. **Garnish and serve:**
+    - Sprinkle with fresh parsley or basil and serve hot.
+
+---
+
+#### **Optional Add-Ins:**
+- Spinach or kale for extra greens
+- Cherry tomatoes or sun-dried tomatoes
+- Vegan parmesan cheese
+- Toasted pine nuts or walnuts for crunch
