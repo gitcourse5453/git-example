@@ -26,7 +26,7 @@ Instructions:
         In a separate bowl, whisk together the flour, baking soda, salt, and cinnamon (if using).
 
     Combine wet and dry:
-        Gradually add the dry ingredients to the banana mixture, stirring just until combined. Do not overmix!
+        Gradually add the dry ingredients to the banana mixture, stirring just until combined. Do not !
         Fold in the chopped walnuts and any optional add-ins (like chocolate chips or lemon zest).
 
     Prepare the batter:
@@ -71,7 +71,7 @@ Sauce Ingredients
 Toppings (Customize as you like!)
 
     2 cups (225g) shredded mozzarella cheese
-    ½ cup grated Parmesan cheese
+    ½ cup grated  cheese
     Toppings of choice:
         Pepperoni, mushrooms, bell peppers, onions, olives, ham, pineapple, fresh basil, etc.
 
@@ -95,8 +95,8 @@ Instructions
 
 2. Make the Sauce
 
-    Sauté aromatics (optional):
-        Heat 1 tbsp olive oil in a saucepan over medium heat. Add 1 minced garlic clove (optional) and sauté for 30 seconds until fragrant.
+     aromatics (optional):
+        Heat 1 tbsp olive oil in a saucepan over medium heat. Add 1 minced garlic clove (optional) and  for 30 seconds until fragrant.
 
     Simmer the sauce:
         Add the crushed tomatoes, tomato paste, oregano, basil, garlic powder, salt, pepper, and sugar.
@@ -105,7 +105,7 @@ Instructions
 3. Prep the Toppings
 
     Shred the mozzarella cheese.
-    Grate the Parmesan cheese.
+    Grate the  cheese.
     Chop and prep your favorite toppings (e.g., slice mushrooms, bell peppers, onions, etc.).
 
 4. Assemble the Pizza
@@ -122,7 +122,7 @@ Instructions
 
     Add sauce and toppings:
         Spread ½ cup sauce evenly over the dough, leaving a ½-inch border for the crust.
-        Sprinkle 1½ cups mozzarella and ¼ cup Parmesan over the sauce.
+        Sprinkle 1½ cups mozzarella and ¼ cup  over the sauce.
         Add your favorite toppings.
 
 5. Bake the Pizza
@@ -135,7 +135,7 @@ Instructions
         The pizza is done when the crust is golden and the cheese is bubbly and slightly browned.
 
     Finish with toppings:
-        Remove from the oven and sprinkle with fresh basil, Parmesan, or a drizzle of olive oil.
+        Remove from the oven and sprinkle with fresh basil, , or a drizzle of olive oil.
 
 6. Serve
 
@@ -147,19 +147,19 @@ Here’s a simple and delicious **vegan recipe** for you:
 
 ### **Creamy Garlic Mushroom Pasta**
 **Serves:** 2
-**Prep Time:** 10 mins
-**Cook Time:** 15 mins
+**Prep Time:** 10 
+**Cook Time:** 15 
 
 #### **Ingredients:**
-- 8 oz (225g) pasta (spaghetti, fettuccine, or penne)
+- 8 oz (225g) pasta (spaghetti, fettuccine, or )
 - 2 tbsp olive oil
 - 3 cloves garlic, minced
-- 8 oz (225g) mushrooms (cremini or white), sliced
+- 8 oz (225g) mushrooms ( or white), sliced
 - 1/2 cup (120ml) vegetable broth
 - 1/2 cup (120ml) unsweetened plant-based cream (coconut or cashew cream works well)
 - 2 tbsp nutritional yeast (for a cheesy flavor)
 - 1 tbsp lemon juice
-- 1 tsp soy sauce or tamari
+- 1 tsp soy sauce or
 - Salt and pepper to taste
 - Fresh parsley or basil, chopped (for garnish)
 - Red pepper flakes (optional, for heat)
@@ -168,9 +168,9 @@ Here’s a simple and delicious **vegan recipe** for you:
 
 #### **Instructions:**
 1. **Cook the pasta:**
-    - Boil salted water in a pot and cook the pasta according to package instructions until al dente. Reserve 1/2 cup of pasta water before draining.
+    - Boil salted water in a pot and cook the pasta according to package instructions until . Reserve 1/2 cup of pasta water before draining.
 
-2. **Sauté the mushrooms and garlic:**
+2. ** the mushrooms and garlic:**
     - Heat olive oil in a large pan over medium heat.
     - Add minced garlic and sliced mushrooms. Cook for 5-6 minutes until the mushrooms are golden and have released their moisture.
 
@@ -190,5 +190,5 @@ Here’s a simple and delicious **vegan recipe** for you:
 #### **Optional Add-Ins:**
 - Spinach or kale for extra greens
 - Cherry tomatoes or sun-dried tomatoes
-- Vegan parmesan cheese
+- Vegan  cheese
 - Toasted pine nuts or walnuts for crunch
